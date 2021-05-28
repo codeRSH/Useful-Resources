@@ -1,0 +1,132 @@
+org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<org.eclipse.ui.commands>\r\n<keyBinding contextId\="com.sap.adt.tools.abapsource.ui.abapCode" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+O"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+NUMPAD_MULTIPLY"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.edit.text.smartEnter" contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+CR"/>
+\r\n<keyBinding contextId\="com.sap.adt.tools.abapsource.ui.abapCode" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+F"/>
+\r\n<keyBinding commandId\="com.sap.adt.dump.ui.QuickOutlineShortCut" contextId\="com.sap.adt.dump.ui.dumpViewerContext" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+O"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+E"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.window.activateEditor" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+F12"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.views.showView" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+D">\r\n<parameter id\="org.eclipse.ui.views.showView.viewId" value\="org.eclipse.debug.ui.DebugView"/>
+\r\n</keyBinding>\r\n<keyBinding commandId\="org.eclipse.jdt.ui.edit.text.java.folding.collapseMembers" contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+K CTRL+["/>
+\r\n<keyBinding commandId\="org.eclipse.ui.file.saveAll" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+K S"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.edit.findNext" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="F3"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.window.nextEditor" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+TAB"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.window.maximizePart" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+B"/>
+\r\n<keyBinding contextId\="com.sap.adt.tools.abapsource.ui.InAbapDocView" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="F2"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.window.newWindow" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+N"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+K"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.edit.findPrevious" contextId\="org.eclipse.xtext.ui.embeddedTextEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="SHIFT+F3"/>
+\r\n<keyBinding commandId\="com.sap.adt.tools.abapsource.ui.showInformationForMethod" contextId\="com.sap.adt.tools.abapsource.ui.abapCode" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+F12"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.edit.text.cut.line" contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+X"/>
+\r\n<keyBinding commandId\="com.sap.adt.tools.abapsource.ui.removeComment" contextId\="com.sap.adt.tools.abapsource.ui.abapCode" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+K CTRL+U"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.edit.text.copyLineUp" contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+ARROW_UP"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.window.splitEditor" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+\\">\r\n<parameter id\="Splitter.isHorizontal" value\="false"/>
+\r\n</keyBinding>\r\n<keyBinding commandId\="com.sap.adt.tools.abapsource.ui.indent" contextId\="com.sap.adt.tools.abapsource.ui.abapCode" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+]"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="F11"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+F11"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.edit.text.folding.collapse_all" contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+K CTRL+0"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.edit.text.smartEnter" contextId\="org.eclipse.xtext.ui.embeddedTextEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+CR"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+{"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+Q X"/>
+\r\n<keyBinding contextId\="org.eclipse.xtext.ui.XtextEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+P"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.views.showView" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+E">\r\n<parameter id\="org.eclipse.ui.views.showView.viewId" value\="org.eclipse.ui.navigator.ProjectExplorer"/>
+\r\n</keyBinding>\r\n<keyBinding commandId\="org.eclipse.ui.edit.findReplace" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+H"/>
+\r\n<keyBinding contextId\="org.eclipse.xtext.ui.embeddedTextEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+CTRL+ARROW_UP"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+D"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.views.showView" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+G">\r\n<parameter id\="org.eclipse.ui.views.showView.viewId" value\="com.sap.adt.tm.ui.tmview"/>
+\r\n</keyBinding>\r\n<keyBinding contextId\="com.sap.adt.tools.abapsource.ui.abapCode" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+CTRL+SHIFT+F"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.edit.text.copyLineUp" contextId\="org.eclipse.xtext.ui.embeddedTextEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+ARROW_UP"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+H"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.window.switchToEditor" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+E"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+F6"/>
+\r\n<keyBinding contextId\="org.eclipse.xtext.ui.embeddedTextEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+D"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+CTRL+ARROW_UP"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.edit.text.goto.line" contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+G"/>
+\r\n<keyBinding contextId\="com.sap.adt.tools.abapsource.ui.abapCode" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+7"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.file.closeAll" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+K CTRL+W"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+F"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+Y"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.edit.text.copyLineDown" contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+ARROW_DOWN"/>
+\r\n<keyBinding contextId\="com.sap.adt.tools.core.ui.abap" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+A"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.edit.text.folding.expand" contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+]"/>
+\r\n<keyBinding commandId\="com.sap.adt.tools.abapsource.ui.prettyPrintBlock" contextId\="com.sap.adt.tools.abapsource.ui.abapCode" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+K CTRL+F"/>
+\r\n<keyBinding commandId\="com.sap.adt.tools.core.ui.rename" contextId\="com.sap.adt.tools.core.ui.abap" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="F2"/>
+\r\n<keyBinding contextId\="com.sap.adt.tools.abapsource.ui.abapCode" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+O"/>
+\r\n<keyBinding commandId\="com.sap.adt.tools.abapsource.ui.openElementInfoInsideElementInfo" contextId\="com.sap.adt.tools.abapsource.ui.InAbapDocView" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="SHIFT+F2"/>
+\r\n<keyBinding contextId\="com.sap.adt.tools.abapsource.ui.abapCode" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+R"/>
+\r\n<keyBinding commandId\="com.sap.adt.ris.whereused.ui.callWhereUsed" contextId\="com.sap.adt.ris.whereused.ui.WhereUsedContext" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="SHIFT+F12"/>
+\r\n<keyBinding contextId\="com.sap.adt.dump.ui.dumpViewerContext" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+O"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.edit.text.copyLineDown" contextId\="org.eclipse.xtext.ui.embeddedTextEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+ARROW_DOWN"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.window.preferences" contextId\="com.sap.adt.tools.core.ui.abap" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+,"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+S"/>
+\r\n<keyBinding commandId\="org.eclipse.emf.codegen.ui.jet.goto.matching.bracket" contextId\="org.eclipse.emf.codegen.ui.jetEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+\\"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+L"/>
+\r\n<keyBinding contextId\="org.eclipse.emf.codegen.ui.jetEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+P"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+CTRL+ARROW_DOWN"/>
+\r\n<keyBinding contextId\="com.sap.adt.ris.whereused.ui.WhereUsedContext" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+G"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+NUMPAD_DIVIDE"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+1"/>
+\r\n<keyBinding commandId\="org.eclipse.lsp4e.format" contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+F"/>
+\r\n<keyBinding contextId\="org.eclipse.xtext.ui.embeddedTextEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+CTRL+ARROW_DOWN"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.edit.text.delete.line" contextId\="org.eclipse.xtext.ui.embeddedTextEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+D"/>
+\r\n<keyBinding contextId\="com.sap.adt.tools.abapsource.ui.abapCode" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+F2"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+F3"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.project.buildAll" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+CTRL+SHIFT+B"/>
+\r\n<keyBinding commandId\="com.sap.adt.tools.abapsource.ui.addComment" contextId\="com.sap.adt.tools.abapsource.ui.abapCode" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+K CTRL+C"/>
+\r\n<keyBinding commandId\="com.sap.adt.tools.abapsource.ui.QuickOutlineShortCut" contextId\="com.sap.adt.tools.abapsource.ui.abapCode" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+O"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+N"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+NUMPAD_ADD"/>
+\r\n<keyBinding contextId\="com.sap.adt.tools.abapsource.ui.editorOutlineContext" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+R"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+K"/>
+\r\n<keyBinding commandId\="org.eclipse.jdt.ui.edit.text.java.correction.assist.proposals" contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+."/>
+\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+R"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.window.showKeyAssist" contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+K CTRL+S"/>
+\r\n<keyBinding contextId\="org.eclipse.wst.jsdt.ui.javaEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+P"/>
+\r\n<keyBinding contextId\="com.sap.adt.tools.abapsource.ui.abapCode" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+I"/>
+\r\n<keyBinding contextId\="org.eclipse.xtext.ui.embeddedTextEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+K"/>
+\r\n<keyBinding contextId\="com.sap.adt.tools.abapsource.ui.abapCode" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+&gt;"/>
+\r\n<keyBinding commandId\="org.eclipse.xtext.ui.GotToMatchingBracketAction" contextId\="org.eclipse.xtext.ui.XtextEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+\\"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+B"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.window.fullscreenmode" contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="F11"/>
+\r\n<keyBinding commandId\="com.sap.adt.ris.search.ui.callSimpleSearch" contextId\="com.sap.adt.tools.core.ui.abap" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+P"/>
+\r\n<keyBinding contextId\="com.sap.adt.tools.abapsource.ui.editorOutlineContext" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="SHIFT+F3"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+M"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.file.saveAs" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+S"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.edit.findPrevious" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="SHIFT+F3"/>
+\r\n<keyBinding contextId\="org.eclipse.jdt.ui.javaEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+P"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="SHIFT+CR"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.ToggleCoolbarAction" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+T"/>
+\r\n<keyBinding commandId\="com.sap.adt.tools.abapsource.ui.openWithSapGui" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+G"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.edit.text.removeTrailingWhitespace" contextId\="com.sap.adt.ris.whereused.ui.WhereUsedContext" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+K CTRL+X"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.edit.text.delete.line" contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+K"/>
+\r\n<keyBinding commandId\="org.eclipse.debug.ui.commands.DebugLast" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="SHIFT+F11"/>
+\r\n<keyBinding commandId\="com.sap.adt.tools.abapsource.ui.prettyPrint" contextId\="com.sap.adt.tools.abapsource.ui.abapCode" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+F"/>
+\r\n<keyBinding commandId\="com.sap.adt.tools.abapsource.ui.navigateToDef" contextId\="com.sap.adt.tools.abapsource.ui.abapCode" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="F12">\r\n<parameter id\="filter" value\="definition"/>
+\r\n</keyBinding>\r\n<keyBinding commandId\="com.sap.adt.tools.abapsource.ui.toggleComment" contextId\="com.sap.adt.tools.abapsource.ui.abapCode" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+/"/>
+\r\n<keyBinding commandId\="org.eclipse.jdt.ui.edit.text.java.search.occurrences.in.file" contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+CR"/>
+\r\n<keyBinding contextId\="org.eclipse.xtext.ui.embeddedTextEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="SHIFT+CR"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.navigate.showIn" contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+K R">\r\n<parameter id\="org.eclipse.ui.navigate.showIn.targetId" value\="org.eclipse.ui.navigator.ProjectExplorer"/>
+\r\n</keyBinding>\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+F6"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.edit.text.toggleWordWrap" contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+Z"/>
+\r\n<keyBinding commandId\="com.sap.adt.tools.core.ui.rename" contextId\="com.sap.adt.tools.abapsource.ui.abapCode" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="F2"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.views.showView" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+M">\r\n<parameter id\="org.eclipse.ui.views.showView.viewId" value\="org.eclipse.ui.views.ProblemView"/>
+\r\n</keyBinding>\r\n<keyBinding commandId\="org.eclipse.ui.edit.text.folding.collapse" contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+["/>
+\r\n<keyBinding commandId\="org.eclipse.ui.edit.text.folding.expand_all" contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+K CTRL+J"/>
+\r\n<keyBinding commandId\="com.sap.adt.tools.abapsource.ui.toggleMarkOccurrences" contextId\="com.sap.adt.tools.abapsource.ui.abapCode" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+O"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.window.previousEditor" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+TAB"/>
+\r\n<keyBinding commandId\="org.eclipse.ui.views.showView" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+F">\r\n<parameter id\="org.eclipse.ui.views.showView.viewId" value\="org.eclipse.search.ui.views.SearchView"/>
+\r\n</keyBinding>\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="F12"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+W"/>
+\r\n<keyBinding contextId\="com.sap.adt.tools.abapsource.ui.abapCode" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="SHIFT+F3"/>
+\r\n<keyBinding commandId\="org.eclipse.jdt.ui.edit.text.java.rename.element" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+R"/>
+\r\n<keyBinding contextId\="com.sap.adt.tools.abapsource.ui.abapCode" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+&lt;"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+L"/>
+\r\n<keyBinding commandId\="com.sap.adt.tools.core.ui.rename" contextId\="com.sap.adt.tools.abapsource.ui.editorOutlineContext" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="F2"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+Q S"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+NUMPAD_SUBTRACT"/>
+\r\n<keyBinding commandId\="org.eclipse.search.ui.openSearchDialog" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+H"/>
+\r\n<keyBinding commandId\="com.sap.adt.tools.abapsource.ui.OutlineNavigateToDeclarationShortCut" contextId\="com.sap.adt.tools.abapsource.ui.editorOutlineContext" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="F12"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+F"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+B"/>
+\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+B"/>
+\r\n<keyBinding commandId\="org.eclipse.debug.ui.commands.ToggleBreakpoint" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="F9"/>
+\r\n</org.eclipse.ui.commands>
