@@ -1,0 +1,73 @@
+
+Ctrl+Shift+P, F1 Show Command Palette
+
+Ctrl+X Cut line (empty selection)
+Ctrl+C  Copy line (empty selection)
+Ctrl+ [ outdent line
+Ctrl+K Ctrl+[ Fold (collapse) all subregions
+Ctrl+K Ctrl+] Unfold (uncollapse) all subregions
+Shift+Alt+A Toggle block comment
+
+Ctrl+T Show all Symbols
+F8 Go to next error or warning 
+Shift+F8 Go to previous error or warning
+Ctrl+M Toggle Tab moves focus
+Alt+Enter Select all occurences of Find match 
+Ctrl+D Add selection to next Find match
+Ctrl+K Ctrl+D Move last selection to next Find match 
+Alt+C / R / W Toggle case-sensitive / regex / whole word
+
+
+Alt+Click Insert cursor
+Ctrl+Alt+ ↑ / ↓ Insert cursor above / below 
+Ctrl+U Undo last cursor operation
+Shift+Alt+I Insert cursor at end of each line selected 
+Ctrl+L Select current line
+Ctrl+Shift+L Select all occurrences of current selection 
+Ctrl+F2 Select all occurrences of current word
+Shift+Alt+→ Expand selection 
+Shift+Alt+← Shrink selection
+Shift+Alt + (drag mouse) Column (box) selection 
+Ctrl+Shift+Alt + (arrow key) Column (box) selection
+Ctrl+Shift+Alt+PgUp/PgDn Column (box) selection page up/down
+
+
+Ctrl+Shift+Space Trigger parameter hints 
+Ctrl+K F12 Open Definition to the side
+Ctrl+K M Change file language
+
+Ctrl+K F Close folder 
+Ctrl+\ Split editor
+Ctrl+ 1 / 2 / 3 Focus into 1st, 2nd or 3rd editor group 
+Ctrl+K Ctrl+ ←/→ Focus into previous/next editor group
+Ctrl+Shift+PgUp / PgDn Move editor left/right 
+Ctrl+K ← / → Move active editor group
+
+Ctrl+Shift+T Reopen closed editor 
+Ctrl+K Enter Keep preview mode editor open
+Ctrl+K P Copy path of active file 
+Ctrl+K O Show active file in new window/instance
+
+
+Shift+Alt+0 Toggle editor layout (horizontal/vertical)
+Ctrl+Shift+X Show Extensions
+Ctrl+Shift+H Replace in files 
+Ctrl+Shift+J Toggle Search details
+Ctrl+Shift+U Show Output panel 
+Ctrl+Shift+V Open Markdown preview
+Ctrl+K V Open Markdown preview to the side 
+Ctrl+K Z Zen Mode (Esc Esc to exit)
+
+F5 Start/Continue 
+Shift+F5 Stop
+F11 / Shift+F11 Step into/out 
+F10 Step over
+Ctrl+K Ctrl+I Show hover
+
+Ctrl+` Show integrated terminal
+Ctrl+Shift+` Create new terminal 
+Ctrl+C Copy selection
+Ctrl+V Paste into active terminal 
+Ctrl+↑ / ↓ Scroll up/down
+Shift+PgUp / PgDn Scroll page up/down 
+Ctrl+Home / End Scroll to top/bottom
