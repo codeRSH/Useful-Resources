@@ -4,11 +4,12 @@ CapsLock & h::Send, {blind}{Left}
 CapsLock & j::Send, {blind}{Down}
 CapsLock & l::Send, {blind}{Right}
 CapsLock & k::Send, {blind}{Up}
-CapsLock & u::Send, {blind}{PgUp}
-CapsLock & i::Send, {blind}{PgDn}
-CapsLock & y::Send, {blind}{Home}
+CapsLock & y::Send, {blind}{PgUp}
+CapsLock & n::Send, {blind}{PgDn}
+CapsLock & u::Send, {blind}{Home}
 CapsLock & o::Send, {blind}{End}
-CapsLock & [::Send, {blind}{Delete}
+CapsLock & `;::Send, {blind}{BackSpace}
+CapsLock & i::Send, {blind}{Del}
 
 #CapsLock:: ; Toggle CapslockState with alt-Capslock.
 If GetKeyState("CapsLock", "T")
