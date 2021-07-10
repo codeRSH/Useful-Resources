@@ -10,7 +10,7 @@ CapsLock & y::Send, {blind}{Home}
 CapsLock & o::Send, {blind}{End}
 CapsLock & [::Send, {blind}{Delete}
 
-!CapsLock:: ; Toggle CapslockState with alt-Capslock.
+#CapsLock:: ; Toggle CapslockState with alt-Capslock.
 If GetKeyState("CapsLock", "T")
 	SetCapsLockState, Off
 Else
